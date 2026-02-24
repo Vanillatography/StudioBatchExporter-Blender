@@ -38,4 +38,5 @@ This addon is designed for professional use, but contributions, bug reports, and
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+   GNU GENERAL PUBLIC LICENSE
+   Version 3, 29 June 2007
